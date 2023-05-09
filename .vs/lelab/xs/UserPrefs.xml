@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3087CE17-CC2A-421B-AB25-589CB90681BE}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lelab" expanded="True">
+            <Node name="lelab" expanded="True" />
+            <Node name="lelab.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable-xxhdpi" selected="True" />
+              </Node>
+            </Node>
+            <Node name="lelab.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.lelab.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.lelab.Android FirstBuild="True" PreferredExecutionTarget="Android.nexus_5x_xxhdpi" />
+  <MonoDevelop.Ide.ItemProperties.lelab FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
